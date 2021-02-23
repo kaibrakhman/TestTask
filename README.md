@@ -4,5 +4,6 @@
 There you can check my code. I used API from https://openweathermap.org/.
 Download some libraries from https://mvnrepository.com/ for working with JSON.
 
-Be carefull when you input data.
+Please, use normal input for name of city.
+like: Almaty, London ... - on this form.
 
